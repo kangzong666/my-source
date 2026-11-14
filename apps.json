@@ -38,6 +38,32 @@
    "subtitle": "CarPlay 无线投屏到 iPad · mini 2 老设备专用版",
    "version": "1.0",
    "versionDate": "2026-11-01"
+  },
+  {
+   "bundleIdentifier": "com.opa334.Dopamine",
+   "description": "opa334 出品的无根（rootless）半不完美越狱工具。官方支持范围：arm64e 机型 iOS 15.0–17.3.1；arm64 机型 iOS 15.0–18.7.1；A12/A13 机型另支持 iOS 26.0–26.0.1。iPhone 14 Plus（A15，iOS 16.0.2）正在支持范围内——注意别升级系统，版本升过头就无法越狱。设备重启后越狱环境失效，重新打开本应用运行一次即可恢复；自带 Sileo 与 Zebra 插件商店。",
+   "developerName": "opa334",
+   "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
+   "iconURL": "https://kangzong666.github.io/my-source/icon-dopamine.png",
+   "localizedDescription": "opa334 出品的无根（rootless）半不完美越狱工具。官方支持范围：arm64e 机型 iOS 15.0–17.3.1；arm64 机型 iOS 15.0–18.7.1；A12/A13 机型另支持 iOS 26.0–26.0.1。iPhone 14 Plus（A15，iOS 16.0.2）正在支持范围内——注意别升级系统，版本升过头就无法越狱。设备重启后越狱环境失效，重新打开本应用运行一次即可恢复；自带 Sileo 与 Zebra 插件商店。",
+   "name": "Dopamine",
+   "size": 55422988,
+   "subtitle": "iOS 越狱工具（rootless）· iPhone 14 Plus（16.0.2）可用",
+   "version": "3.0.13",
+   "versionDate": "2026-11-03"
+  },
+  {
+   "bundleIdentifier": "com.SideStore.SideStore",
+   "description": "开源的 iOS 侧载（自签安装）工具：用自己的 Apple ID 签名安装 IPA，并通过本地 VPN 在 WiFi 环境下自动续签，日常使用免电脑、免越狱。最低支持 iOS 15。本条为 0.7.0-alpha 测试版（官方因苹果服务器变动导致旧版登录 503 而临时发布），可能不够稳定，介意者可等正式版；首次安装仍需按官方指南用电脑辅助一次。",
+   "developerName": "SideStore",
+   "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.7.0-alpha/SideStore.ipa",
+   "iconURL": "https://kangzong666.github.io/my-source/icon-sidestore.png",
+   "localizedDescription": "开源的 iOS 侧载（自签安装）工具：用自己的 Apple ID 签名安装 IPA，并通过本地 VPN 在 WiFi 环境下自动续签，日常使用免电脑、免越狱。最低支持 iOS 15。本条为 0.7.0-alpha 测试版（官方因苹果服务器变动导致旧版登录 503 而临时发布），可能不够稳定，介意者可等正式版；首次安装仍需按官方指南用电脑辅助一次。",
+   "name": "SideStore",
+   "size": 27770821,
+   "subtitle": "开源侧载工具 · WiFi 自动续签免电脑（alpha 测试版）",
+   "version": "0.7.0-alpha",
+   "versionDate": "2026-09-15"
   }
  ],
  "description": "自己搭建的免费软件源，供全能签等签名工具订阅安装。",
