@@ -1,1 +1,45 @@
-{"apps":[{"bundleIdentifier":"com.zhangfuhao.wqtoolkit","developerName":"MchinaMd57764","downloadURL":"https://github.com/MchinaMd57764/WQToolkit/releases/download/v1.0/WQToolkit-unsigned.ipa","iconURL":"https://kangzong666.github.io/my-source/icon-wqtoolkit.png","localizedDescription":"免越狱的 iOS 本机工具箱。功能包括：文件浏览与管理（本应用沙盒）、缓存扫描与清理、设备详细信息查看、已安装应用列表导出/导入，以及 MobileGestalt 参数面板——可查看系统参数，并修改白名单内的区域等设置（写入前自动备份，可随时恢复）。无账号、无联网后台。注意：仅支持 iOS 27；本包未签名，安装时请使用自己的证书签名，且证书需包含 App Group 权限，否则部分功能不可用。","name":"WQToolkit","size":4819436,"version":"1.0","versionDate":"2026-11-11"},{"bundleIdentifier":"org.coolstar.taurine","developerName":"Odyssey Team","downloadURL":"https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa","iconURL":"https://kangzong666.github.io/my-source/icon-taurine.png","localizedDescription":"Odyssey 团队出品的 iOS 越狱工具，支持 iOS 14.0–14.8.1，适用于 iPhone 8 Plus（A11）等机型，自带 Sileo 插件商店。属于半不完美越狱：设备重启后越狱环境失效，重新打开本应用点击 Jailbreak 即可恢复。换越狱工具前请先干净移除现有越狱（恢复 rootfs），不要叠加安装。","name":"Taurine","size":32244737,"version":"1.1.7-3","versionDate":"2023-05-01"},{"bundleIdentifier":"ai.rplay.carcast.ios","developerName":"rPlayAI","downloadURL":"https://github.com/rPlayAI/carcast-public/releases/download/ios-ipad-legacy-1.0-15/iCarCast-iPad-ios12.2-1.0-15.ipa","iconURL":"https://kangzong666.github.io/my-source/icon-icarcast.png","localizedDescription":"CarPlay 无线投屏接收端：让 iPhone 呼出自身的 CarPlay 界面，无线投到 iPad 上显示，iPad 只作显示屏。此为老设备专用版本，支持 iPadOS 12.2–14，iPad mini 2 / mini 3 可用。使用时 iPhone 与 iPad 需连接同一 WiFi（随身路由器或安卓机热点均可，iPhone 自身热点不行）；声音可由 iPad 通过蓝牙连车机音响或 AUX 输出。","name":"iCarCast (iPad 老版)","size":12461103,"version":"1.0","versionDate":"2026-11-01"}],"description":"自己搭建的免费软件源，供全能签等签名工具订阅安装。","iconURL":"https://kangzong666.github.io/my-source/icon-source.png","identifier":"com.naiwa.source","name":"奶蛙软件源","subtitle":"自用 IPA 软件源"}
+{
+ "apps": [
+  {
+   "bundleIdentifier": "com.zhangfuhao.wqtoolkit",
+   "developerName": "MchinaMd57764",
+   "downloadURL": "https://github.com/MchinaMd57764/WQToolkit/releases/download/v1.0/WQToolkit-unsigned.ipa",
+   "iconURL": "https://kangzong666.github.io/my-source/icon-wqtoolkit.png",
+   "localizedDescription": "免越狱的 iOS 本机工具箱。功能包括：文件浏览与管理（本应用沙盒）、缓存扫描与清理、设备详细信息查看、已安装应用列表导出/导入，以及 MobileGestalt 参数面板——可查看系统参数，并修改白名单内的区域等设置（写入前自动备份，可随时恢复）。无账号、无联网后台。注意：仅支持 iOS 27；本包未签名，安装时请使用自己的证书签名，且证书需包含 App Group 权限，否则部分功能不可用。",
+   "name": "WQToolkit",
+   "size": 4819436,
+   "subtitle": "免越狱本机工具箱 · 文件管理 / 缓存清理 / MobileGestalt",
+   "version": "1.0",
+   "versionDate": "2026-11-11"
+  },
+  {
+   "bundleIdentifier": "org.coolstar.taurine",
+   "developerName": "Odyssey Team",
+   "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+   "iconURL": "https://kangzong666.github.io/my-source/icon-taurine.png",
+   "localizedDescription": "Odyssey 团队出品的 iOS 越狱工具，支持 iOS 14.0–14.8.1，适用于 iPhone 8 Plus（A11）等机型，自带 Sileo 插件商店。属于半不完美越狱：设备重启后越狱环境失效，重新打开本应用点击 Jailbreak 即可恢复。换越狱工具前请先干净移除现有越狱（恢复 rootfs），不要叠加安装。",
+   "name": "Taurine",
+   "size": 32244737,
+   "subtitle": "iOS 14.0–14.8.1 越狱工具 · iPhone 8 Plus 可用",
+   "version": "1.1.7-3",
+   "versionDate": "2023-05-01"
+  },
+  {
+   "bundleIdentifier": "ai.rplay.carcast.ios",
+   "developerName": "rPlayAI",
+   "downloadURL": "https://github.com/rPlayAI/carcast-public/releases/download/ios-ipad-legacy-1.0-15/iCarCast-iPad-ios12.2-1.0-15.ipa",
+   "iconURL": "https://kangzong666.github.io/my-source/icon-icarcast.png",
+   "localizedDescription": "CarPlay 无线投屏接收端：让 iPhone 呼出自身的 CarPlay 界面，无线投到 iPad 上显示，iPad 只作显示屏。此为老设备专用版本，支持 iPadOS 12.2–14，iPad mini 2 / mini 3 可用。使用时 iPhone 与 iPad 需连接同一 WiFi（随身路由器或安卓机热点均可，iPhone 自身热点不行）；声音可由 iPad 通过蓝牙连车机音响或 AUX 输出。",
+   "name": "iCarCast (iPad 老版)",
+   "size": 12461103,
+   "subtitle": "CarPlay 无线投屏到 iPad · mini 2 老设备专用版",
+   "version": "1.0",
+   "versionDate": "2026-11-01"
+  }
+ ],
+ "description": "自己搭建的免费软件源，供全能签等签名工具订阅安装。",
+ "iconURL": "https://kangzong666.github.io/my-source/icon-source.png",
+ "identifier": "com.naiwa.source",
+ "name": "奶蛙软件源",
+ "subtitle": "自用 IPA 软件源"
+}
