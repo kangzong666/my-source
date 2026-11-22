@@ -1,0 +1,38 @@
+{
+ "sites": [
+  {
+   "key": "jianpian",
+   "name": "荐片",
+   "type": 3,
+   "api": "https://kangzong666.github.io/my-source/tvbox/jianpian.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 0,
+   "timeout": 30
+  }
+ ],
+ "lives": [
+  {
+   "epg": "",
+   "logo": "",
+   "name": "IPTV 直播（实测 5436 频道）",
+   "type": 0,
+   "url": "https://kangzong666.github.io/my-source/tvbox/iptv_all.m3u"
+  },
+  {
+   "epg": "",
+   "logo": "",
+   "name": "IPTV 国内",
+   "type": 0,
+   "url": "https://kangzong666.github.io/my-source/tvbox/iptv_cn.m3u"
+  },
+  {
+   "epg": "",
+   "logo": "",
+   "name": "央视卫视",
+   "type": 0,
+   "url": "https://kangzong666.github.io/my-source/tvbox/iptv_cctv.m3u"
+  }
+ ]
+}
